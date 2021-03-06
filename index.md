@@ -1,6 +1,6 @@
 # Learn Py4Web
 
-[py4web](https://py4web.com) is an open-source, Python-based web framework.  This site contains the material for a class that covers py4web in 20 lectures.  The class is taught at the [UCSC School of Engineering](https://www.soe.ucsc.edu) by [Luca de Alfaro](https://lucadealfaro.github.io).  If you would like to teach a similar class in another place, feel free to contact the author and use this material.
+[py4web](https://py4web.com) is an open-source, Python-based web framework.  This site contains the material for a class that covers py4web in 20 lectures.  The class is taught at the [UCSC School of Engineering](https://www.soe.ucsc.edu) by [Luca de Alfaro](https://luca.dealfaro.com).  If you would like to teach a similar class in another place, feel free to contact the author and use this material.
 
 In particular, the class is based on the following frameworks: 
 
