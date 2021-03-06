@@ -44,3 +44,4 @@ In particular, the class is based on the following frameworks:
 * Security of the deployment
 * Mobile sites
 
+[Another, empty, page.](other.md)
