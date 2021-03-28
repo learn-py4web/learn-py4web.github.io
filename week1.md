@@ -14,9 +14,9 @@
 
 ## Videos
 
-* [Installing py4web via pip](https://drive.google.com/file/d/15C3DkUsyujxCNL-KVEYjpjUdMkOT_A6-/view?usp=sharing)
-* [Installing py4web from git](https://drive.google.com/file/d/1LS51NjRyGpOHj91Hc2eIaEKSSEMa3wbm/view?usp=sharing)
-* [Editing in py4web](https://drive.google.com/file/d/1dGL566G6w5Ib58Sag28uF3HXWyH5_CjO/view?usp=sharing)
-* [HTML basics](https://drive.google.com/file/d/1OC4UCjMKdNS81s5qIWXAzBkDujlcRgZd/view?usp=sharing)
-* [DOM tree rendering](https://drive.google.com/file/d/11cwuoYDYn2J5pLRofAbUoecPJGSZfAIM/view?usp=sharing)
-* [Example: creating a static web page](https://drive.google.com/file/d/1LS51NjRyGpOHj91Hc2eIaEKSSEMa3wbm/view?usp=sharing) with bulma.css. 
+* [Installing py4web via pip](https://youtu.be/DM8Yy4WdmJ4)
+* [Installing py4web from git](https://youtu.be/hv3aEaT6ulI)
+* [Editing in py4web](https://youtu.be/xnyNbR4a-sQ)
+* [HTML basics](https://youtu.be/tUbvUaaxNAI)
+* [DOM tree rendering](https://youtu.be/BSGS6oY_qRQ)
+* [Example: creating a static web page](https://youtu.be/5PZ7BnXDeUI) with bulma.css. 
