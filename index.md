@@ -12,7 +12,11 @@ For more details, you can read the [class syllabus](syllabus.md).
 
 ## Lectures
 
-* [Week 1](week1.md): Installing py4web and editing py4web sites. HTML basics.  The Bulma CSS framework. 
+The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
+
+* [Unit 1](unit1.md): Installing py4web and editing py4web sites. 
+* [Unit 2](unit2.md): HTML basics.  The Bulma CSS framework. 
+
 
 ---
 
