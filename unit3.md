@@ -1,15 +1,20 @@
-# Unit 3
+# Unit 3: CSS, SASS, and Bulma Customization
 
 (Work in progress)
 
-## Resources
+## Reading
 
 * [CSS](https://en.wikipedia.org/wiki/CSS).  In particular, read the selectors portion.  
-* [CSS at MDN](https://developer.mozilla.org/en-US/docs/Web/CSSpra)
-* [scaffold_bulma](https://bitbucket.org/luca_de_alfaro/scaffold_bulma/), a scaffold app based on [Bulma](https://bulma.io) that will be the starting point for our apps. 
+* [CSS at MDN](https://developer.mozilla.org/en-US/docs/Web/CSSpra) This is an _excellent_ tutorial, well worth following. 
+
+## Documentation
+
 * [SASS](https://sass-lang.com), a language that enables you to write CSS while preserving your mental sanity. 
+* [Bulma Customization](https://bulma.io/documentation/customize/with-sass-cli/). 
 
 ## Videos
 
-* CSS in a little more depth
-* Generating CSS via SASS
+* [CSS in a little more depth](??)
+* [Generating CSS via SASS](??) ([code used in the video](https://bitbucket.org/luca_de_alfaro/sass-example/))
+* [Using SASS to customize Bulma](??) ([code used in the video](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/))
+
