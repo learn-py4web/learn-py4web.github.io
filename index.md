@@ -25,6 +25,15 @@ _Serving Simple Pages_
 * [Unit 4](unit4.md): Requesting a page: DNS, the HTTP protocol. 
 * [Unit 5](unit5.md): Serving simple pages with py4web.
 
+_Onwards to Dynamic Pages_
+ * [Unit 6](unit6.md): The Structure of a Scalable Web Server
+ 
+
+## License and Collaboration
+
+All material here, and in particular all the videos and all the documents of which I am the author, is provided under the terms of the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/2.0/).  If you create translations, or captions in other languages, [I would love to hear about it and facilitate the work the best I can](dealfaro@alumni.stanford.edu), and host or point to them here.
+Likewise, if you create your own versions of some of the videos, let me know, and I may include them here. 
+
 ---
 
 [Luca de Alfaro](https://luca.dealfaro.com), 2021.
