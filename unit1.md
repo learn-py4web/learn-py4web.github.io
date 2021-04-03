@@ -12,6 +12,7 @@
 
 ## Videos
 
-* [Installing py4web via pip](https://youtu.be/DM8Yy4WdmJ4)
-* [Installing py4web from git](https://youtu.be/hv3aEaT6ulI)
+* [Installing py4web from git](https://youtu.be/hv3aEaT6ulI).  If you really want, you can also [install py4web via pip](https://youtu.be/DM8Yy4WdmJ4), but the recommended way for this class is to install it from source.
 * [Editing in py4web](https://youtu.be/xnyNbR4a-sQ)
+
+_Note: The installation video briefly mentions two minor bugs; these have been fixed already in py4web._ 

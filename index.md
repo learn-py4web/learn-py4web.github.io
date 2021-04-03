@@ -14,9 +14,14 @@ For more details, you can read the [class syllabus](syllabus.md).
 
 The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
 
-* [Unit 1](unit1.md): Installing py4web and editing py4web sites. 
+_Installation_
+* [Unit 1](unit1.md): Installing py4web and editing py4web sites.
+
+_Creating HTML Pages_
 * [Unit 2](unit2.md): HTML basics.  The Bulma CSS framework. 
 * [Unit 3](unit3.md): CSS, SASS, and customizing Bulma. 
+
+_Serving Simple Pages_
 * [Unit 4](unit4.md): Requesting a page: DNS, the HTTP protocol. 
 * [Unit 5](unit5.md): Serving simple pages with py4web.
 
