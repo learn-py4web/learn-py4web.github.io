@@ -14,7 +14,7 @@
 
 ## Videos
 
-* [CSS in a little more depth](??)
-* [Generating CSS via SASS](??) ([code used in the video](https://bitbucket.org/luca_de_alfaro/sass-example/))
-* [Using SASS to customize Bulma](??) ([code used in the video](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/))
+* [CSS in a little more depth](https://youtu.be/HpK6L4VAEXk)
+* [Generating CSS via SASS](https://youtu.be/w0CCd9kmMyU) ([code used in the video](https://bitbucket.org/luca_de_alfaro/sass-example/))
+* [Using SASS to customize Bulma](https://youtu.be/IDhRW4FIPyw) ([code used in the video](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/))
 

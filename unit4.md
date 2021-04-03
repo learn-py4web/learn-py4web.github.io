@@ -1,4 +1,4 @@
-# Unit 4
+# Unit 4: DNS and HTTP.
 
 (Work in progress)
 
@@ -16,7 +16,6 @@
 
 ## Videos
 
-* Example: finding the IP address of a server
-* Configuring a domain-name server
-* Anatomy of an HTTP request and response
+* [DNS and routing](https://youtu.be/p-6DWrHkvZU)
+* [The HTTP protocol](https://youtu.be/aCYkv45xciM)
 
