@@ -1,6 +1,6 @@
 # Unit 4: DNS and HTTP.
 
-(Work in progress)
+In this unit, we describe the basics of DNS, and the HTTP protocol. 
 
 ## Resources
 

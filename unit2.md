@@ -1,5 +1,7 @@
 # Unit 2: HTML basics
 
+In this unit, we learn the basics of HTML and CSS, and we give a first introduction to Bulma, the CSS framework we will be using in class. 
+
 ## Resources
 
 * [HTML tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)

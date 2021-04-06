@@ -27,7 +27,8 @@ _Serving Simple Pages_
 
 _Onwards to Dynamic Pages_
  * [Unit 6](unit6.md): The Structure of a Scalable Web Server
- 
+ * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
+
 
 ## License and Collaboration
 

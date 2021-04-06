@@ -1,5 +1,7 @@
 # Unit 1: Installing py4web, and editing code
 
+In this unit, we learn how to install py4web, and how to edit its files via either Visual Studio Code or PyCharm, two sophisticated Python editors. 
+
 ## Resources
 
 * [Anaconda Python](https://www.anaconda.com/)
@@ -8,6 +10,7 @@
 * [py4web source repository](https://github.com/web2py/py4web)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [PyCharm](https://www.jetbrains.com/pycharm/) and [student licenses](https://www.jetbrains.com/community/education/#students)
+* [Screenshot of run configuration for py4web in PyCharm](files/pycharm_py4web_config.png)
 * [git](https://git-scm.com/about)
 
 ## Videos

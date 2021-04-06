@@ -1,5 +1,7 @@
 # Unit 5: Serving Simple Web Requests with py4web
 
+In this unit, we learn how to create a simple app and serve web requests, producing web pages via templates that can use information provided by Python to generate the page HTML. 
+
 ## Resources
 
 * [Creating the first app in py4web](https://py4web.com/_documentation/static/en/chapter-05.html)

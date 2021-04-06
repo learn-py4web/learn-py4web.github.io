@@ -1,6 +1,7 @@
 # Unit 3: CSS, SASS, and Bulma Customization
 
-(Work in progress)
+In this unit, we learn about CSS, and we learn how to generate CSS via SASS, which enables the use of scoping and variables, which are missing in CSS.  
+We also learn how to use SASS to customize Bulma to our taste. 
 
 ## Reading
 
