@@ -5,6 +5,7 @@
 * [Creating the first app in py4web](https://py4web.com/_documentation/static/en/chapter-05.html)
 * [The YATL templating language](https://py4web.com/_documentation/static/en/chapter-09.html)
 * [YATL helpers](https://py4web.com/_documentation/static/en/chapter-10.html).  YATL helpers allow you to generate HTML from Python or YATL.
+* [Repository for the soccer example](https://bitbucket.org/luca_de_alfaro/soccer_app/) used in the YATL video.
 
 ## Videos
 
