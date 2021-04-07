@@ -26,9 +26,9 @@ _Serving Simple Pages_
 * [Unit 5](unit5.md): Serving simple pages with py4web.
 
 _Onwards to Dynamic Pages_
- * [Unit 6](unit6.md): The Structure of a Scalable Web Server
- * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
-
+* [Unit 6](unit6.md): The Structure of a Scalable Web Server.
+* [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
+* [Unit 8](unit8.md): Creating database tables, and using forms to insert/edit/view/delete data.
 
 ## License and Collaboration
 
