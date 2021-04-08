@@ -16,5 +16,4 @@ We will also learn how to examine the database content, which is useful in debug
 ## Videos
 
 * [Fixtures, sessions, connection to the database, user auth](https://youtu.be/kSNrwf9pO3Q)
-* [Examining the database content](https://youtu.be/PFCoBx4o5t8)
 
