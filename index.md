@@ -29,6 +29,7 @@ _Onwards to Dynamic Pages_
 * [Unit 6](unit6.md): The Structure of a Scalable Web Server.
 * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
 * [Unit 8](unit8.md): Creating database tables, and using forms to insert/view/edit/delete data.
+* [Unit 9](unit9.md): Generating URLs, HTML, and security considerations
 
 ## How-To Resources
 
