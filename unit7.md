@@ -10,6 +10,9 @@ We will also learn how to examine the database content, which is useful in debug
 ## Resources
 
 * [Fixtures](https://py4web.com/_documentation/static/en/chapter-06.html), in the py4web documentation.
+* Remember: 
+    * `@action.uses(auth, ...)` makes the user information available in the controller.  
+    * `@action.uses(auth.user, ...)` enforces the fact that the user has to be logged in to visit that particular page. 
 * [DAL: The Database Abstraction Layer](https://py4web.com/_documentation/static/en/chapter-07.html), in the py4web documentation.
 * [sqlite](https://sqlite.org/index.html), the database server that is used for development.  sqlite locks the entire database when an operation is in progress, so it is not suited to multi-user sites; it is used only in development. 
 
