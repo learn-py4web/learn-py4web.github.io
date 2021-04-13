@@ -10,7 +10,7 @@
 ## Videos
 
 * [URLs](https://youtu.be/OonCQz79XOo): their structure and creation
-* [URL design](https://youtu.be/xIFPseE0QSE): creating URLs for your applications
+* [URL design](https://youtu.be/xIFPseE0QSE): designing URLs for your applications
 * [Conveying information to servers](https://youtu.be/6jo3dJ9di3o)
 * [YATL helpers](https://youtu.be/MQLoOTj80Hc)
 * [Script injection attacks](https://youtu.be/eEw1iorqRZY)
