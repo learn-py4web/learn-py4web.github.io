@@ -4,7 +4,7 @@ In this unit, we discuss input validation in forms, and we present the py4web gr
 
 Input validation aims at ensuring that correct information is inserted in the database: for instance, numbers are actually numbers and belong to a proper range, required fields are not left empty, and appropriate constraints hold between field values (in our example, the gross weight is greater than the net weight). 
 
-The py4web grid is a way to quickly construct tables from database content. We show you how to use it and customize it to your needs. 
+The py4web grid provides a quick way to construct tables from database content. We show you how to use it and customize it to your needs. 
 
 ## Resources
 
