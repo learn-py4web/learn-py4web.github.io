@@ -30,6 +30,15 @@ _Onwards to Dynamic Pages_
 * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
 * [Unit 8](unit8.md): Creating database tables, and using forms to insert/view/edit/delete data.
 * [Unit 9](unit9.md): Generating URLs, HTML, and security considerations
+* [Unit 10](unit10.md): Form validation, and grid
+
+_Working on a Project_
+
+* [Unit 11](unit11.md): Starting a project.
+
+_The database in more depth_
+
+* [Unit 12](unit12.md): Database design
 
 ## How-To Resources
 
