@@ -8,6 +8,7 @@ The py4web grid provides a quick way to construct tables from database content. 
 
 ## Resources
 
+* [Code repository](https://bitbucket.org/luca_de_alfaro/lecture_grid_and_validation/) for this unit.
 * [Database validators](http://www.web2py.com/books/default/chapter/29/07/forms-and-validators#Validators): The documentation is part of the web2py book, but the validators are part of [pydal](https://pypi.org/project/pydal/), the database abstraction layer, and so the documentation applies also to py4web. 
 * [Pydal documentation for web2py](http://www.web2py.com/books/default/chapter/29/06/the-database-abstraction-layer).  This applies also to py4web. 
 * [Pydal documentation for py4web](https://py4web.com/_documentation/static/en/chapter-07.html).  This is essentially the same as the above. 
