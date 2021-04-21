@@ -43,8 +43,8 @@ _The Database in More Depth_
 
 ## How-To Resources
 
-* [Howto 1](howto2.md): Creating applications
-* [Howto 2](howto1.md): Debugging
+* [Howto 1](howto2.md): Creating applications.
+* [Howto 2](howto1.md): Debugging.
 
 ## License and Collaboration
 
