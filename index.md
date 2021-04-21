@@ -36,9 +36,10 @@ _Working on a Project_
 
 * [Unit 11](unit11.md): Starting a project.
 
-_The database in more depth_
+_The Database in More Depth_
 
 * [Unit 12](unit12.md): Database design
+* [Unit 13](unit13.md): Transactions and database consistency
 
 ## How-To Resources
 
