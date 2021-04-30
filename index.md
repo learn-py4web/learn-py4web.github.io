@@ -41,6 +41,11 @@ _The Database in More Depth_
 * [Unit 12](unit12.md): Database design.
 * [Unit 13](unit13.md): Transactions and database consistency.
 
+_JavaScript Frameworks_ 
+
+* [Unit 14](unit14.md): JavaScript
+* [Unit 15](unit15.md): Vue.js
+
 ## How-To Resources
 
 * [Howto 1](howto2.md): Creating applications.
