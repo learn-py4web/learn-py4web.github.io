@@ -9,7 +9,7 @@ In this unit, we will learn how to develop a Vue app that manages a list of cont
 
 ## Code
 
-* [A contacts app in Vue](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts/).
+* [A contacts app in Vue.js](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts/).
 * [Editing contacts in place](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts_edit_in_place/).
 
 ## Videos
