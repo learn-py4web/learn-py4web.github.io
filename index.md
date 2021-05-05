@@ -29,7 +29,7 @@ _Onwards to Dynamic Pages_
 * [Unit 6](unit6.md): The Structure of a Scalable Web Server.
 * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
 * [Unit 8](unit8.md): Creating database tables, and using forms to insert/view/edit/delete data.
-* [Unit 9](unit9.md): Generating URLs, HTML, and security .considerations
+* [Unit 9](unit9.md): Generating URLs, HTML, and security considerations.
 * [Unit 10](unit10.md): Form validation, and grid.
 
 _Working on a Project_
@@ -41,10 +41,11 @@ _The Database in More Depth_
 * [Unit 12](unit12.md): Database design.
 * [Unit 13](unit13.md): Transactions and database consistency.
 
-_JavaScript Frameworks_ 
+_Building Dynamic Web Pages_ 
 
 * [Unit 14](unit14.md): JavaScript
 * [Unit 15](unit15.md): Vue.js
+* [Unit 16](unit16.md): A Contacts App in Vue.js
 
 ## How-To Resources
 
