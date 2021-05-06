@@ -4,15 +4,19 @@ In this unit, we will learn how to develop a Vue app that manages a list of cont
 
 ## Resources
 
-* [Vue documentation](https://vuejs.org/v2/guide/installation.html).
+* [Vue documentation](https://vuejs.org/v2/guide/installation.html).  In particular, look at: 
+    * [The Essentials section](https://vuejs.org/v2/guide/installation.html) of the Vue guide. 
+    * [Reactivity in depth](https://vuejs.org/v2/guide/reactivity.html): read this section to understand how Vue keeps the page in synch with the JavaScript, and to avoid common pitfalls in this. 
+
 * [Bulma documentation](https://bulma.io/documentation/overview/).
 
 ## Code
 
 * [A contacts app in Vue.js](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts/).
-* [Editing contacts in place](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts_edit_in_place/).
+* [Editing contacts in place](https://bitbucket.org/luca_de_alfaro/vue_contacts_edit_in_place/).
 
 ## Videos
 
 * [A contacts app in Vue.js](https://youtu.be/Qh3xUZWsqR4).
-* [Editing contacts in place](https://youtu.be/ZjsL19EILb0).  
+* [Editing contacts in place](https://youtu.be/gi7EDFLvXyA). 
+* [Debugging Vue apps](https://youtu.be/pBC02dVb7yM). 
