@@ -6,7 +6,7 @@ For file upload, we will learn how to upload a file to the server, how to upload
 
 ## Resources
 
-* [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/)
+* [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
 
 ## Videos
 
