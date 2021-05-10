@@ -46,6 +46,7 @@ _Building Dynamic Web Pages_
 * [Unit 14](unit14.md): JavaScript
 * [Unit 15](unit15.md): Vue.js
 * [Unit 16](unit16.md): A Contacts App in Vue.js
+* [Unit 17](unit17.md): Star ratings, file uploads in Vue.js
 
 ## How-To Resources
 
