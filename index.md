@@ -55,6 +55,7 @@ _Building Dynamic Web Pages_
 
 ## License and Collaboration
 
+Copyright of the author (Luca de Alfaro, if not otherwise noted).
 All code is released under the [BSD 2-clause license](https://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_(%22Simplified_BSD_License%22_or_%22FreeBSD_License%22)). 
 All videos and documents are released under the terms of the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/2.0/).  If you create translations, or captions in other languages, [I would love to hear about it and facilitate the work the best I can](dealfaro@alumni.stanford.edu), and host or point to them here.
 Likewise, if you create your own versions of some of the videos, let me know, and I may include them here. 
