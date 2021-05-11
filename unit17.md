@@ -1,4 +1,4 @@
-# Unit 17: Star ratings, file uploads in Vue.js
+# Unit 17: Star ratings, file uploads and more in Vue.js
 
 In this unit, we provide examples of implementation of common interactions in Vue.js, including star rating, and file upload. 
 
@@ -7,8 +7,13 @@ For file upload, we will learn how to upload a file to the server, how to upload
 ## Resources
 
 * [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
+* [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
+* [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
 
 ## Videos
 
 * [Implementing star ratings in Vue.js](https://youtu.be/IzkwpjE49Gs)
+* [Implementing a search bar](https://youtu.be/TS6ToY5s0Eg).  This is a lower-quality video cut from a lecture.
+* [Uploading files to the server](https://youtu.be/PaR4v7-OjXs) using Vue.js.
+
 

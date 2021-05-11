@@ -10,6 +10,8 @@ In this unit, we will learn how to develop a Vue app that manages a list of cont
 
 * [Bulma documentation](https://bulma.io/documentation/overview/).
 
+* Watch the video on how to [debug Vue.js apps](howto2.md).
+
 ## Code
 
 * [A contacts app in Vue.js](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts/).
@@ -19,4 +21,3 @@ In this unit, we will learn how to develop a Vue app that manages a list of cont
 
 * [A contacts app in Vue.js](https://youtu.be/Qh3xUZWsqR4).
 * [Editing contacts in place](https://youtu.be/gi7EDFLvXyA). 
-* [Debugging Vue apps](https://youtu.be/pBC02dVb7yM). 

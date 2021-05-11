@@ -46,7 +46,7 @@ _Building Dynamic Web Pages_
 * [Unit 14](unit14.md): JavaScript
 * [Unit 15](unit15.md): Vue.js
 * [Unit 16](unit16.md): A Contacts App in Vue.js
-* [Unit 17](unit17.md): Star ratings, file uploads in Vue.js
+* [Unit 17](unit17.md): Star ratings, file uploads and more in Vue.js
 
 ## How-To Resources
 
@@ -55,7 +55,8 @@ _Building Dynamic Web Pages_
 
 ## License and Collaboration
 
-All material here, and in particular all the videos and all the documents of which I am the author, is provided under the terms of the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/2.0/).  If you create translations, or captions in other languages, [I would love to hear about it and facilitate the work the best I can](dealfaro@alumni.stanford.edu), and host or point to them here.
+All code is released under the [BSD 2-clause license](https://en.wikipedia.org/wiki/BSD_licenses#2-clause_license_(%22Simplified_BSD_License%22_or_%22FreeBSD_License%22)). 
+All videos and documents are released under the terms of the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/2.0/).  If you create translations, or captions in other languages, [I would love to hear about it and facilitate the work the best I can](dealfaro@alumni.stanford.edu), and host or point to them here.
 Likewise, if you create your own versions of some of the videos, let me know, and I may include them here. 
 
 ---
