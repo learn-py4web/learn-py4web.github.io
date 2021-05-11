@@ -25,7 +25,7 @@ _Serving Simple Pages_
 * [Unit 4](unit4.md): Requesting a page: DNS, the HTTP protocol. 
 * [Unit 5](unit5.md): Serving simple pages with py4web.
 
-_Onwards to Dynamic Pages_
+_Serving Dynamic Web Pages_
 * [Unit 6](unit6.md): The Structure of a Scalable Web Server.
 * [Unit 7](unit7.md): Connecting to the database, session, and user authentication.
 * [Unit 8](unit8.md): Creating database tables, and using forms to insert/view/edit/delete data.
@@ -41,7 +41,7 @@ _The Database in More Depth_
 * [Unit 12](unit12.md): Database design.
 * [Unit 13](unit13.md): Transactions and database consistency.
 
-_Building Dynamic Web Pages_ 
+_Building Dynamic Pages with JavaScript and Vue.js_ 
 
 * [Unit 14](unit14.md): JavaScript
 * [Unit 15](unit15.md): Vue.js
