@@ -5,6 +5,7 @@ In this unit, we will introduce the basics of vue.js and how to use it alongside
 ## Resources
 
 * [Vue documentation](https://vuejs.org/v2/guide/).  We are using Vue version 2 in this class; the differences with version 3 are small and do not affect most examples.
+* [A video introduction to Vue.js](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/).
 
 ## Code
 

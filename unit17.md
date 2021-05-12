@@ -9,16 +9,19 @@ Data URLs enable us to convert images into strings, and thus, treat them just li
 
 ## Resources
 
-* [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
-* [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
-* [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
-* [Code for uploading images with preview](https://bitbucket.org/luca_de_alfaro/upload_with_preview/).
-* [Code to add images to contacts](https://bitbucket.org/luca_de_alfaro/contacts_with_images/).
 * Information on [base64](https://docs.python.org/3/library/base64.html).
 * Documentation on [data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs).
 * Wikipedia page on [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme) (a.k.a. data URLs).
 * Documentation on [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader).
 * Documentation on [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
+
+## Code
+
+* [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
+* [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
+* [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
+* [Code for uploading images with preview](https://bitbucket.org/luca_de_alfaro/upload_with_preview/).
+* [Code to add images to contacts](https://bitbucket.org/luca_de_alfaro/contacts_with_images/).
 
 ## Videos
 
