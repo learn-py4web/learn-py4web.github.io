@@ -16,7 +16,8 @@ We will also learn that images can be represented via _data URLs_, which are str
 * Information on [base64](https://docs.python.org/3/library/base64.html).
 * Documentation on [data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs).
 * Wikipedia page on [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme) (a.k.a. data URLs).
-
+* Documentation on [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader).
+* Documentation on [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
 
 ## Videos
 
