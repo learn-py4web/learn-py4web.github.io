@@ -1,8 +1,8 @@
-# Unit 17: Star ratings, file uploads and more in Vue.js
+# Unit 17: Star ratings, file uploads and data URLs
 
 In this unit, we provide examples of implementation of common interactions in Vue.js, including star rating, and file upload. 
 
-For file upload, we will learn how to upload a file to the server, how to upload (and download) files from Google Cloud Storage (and Amazon S3 is similar), and how to display image previews of files to upload. 
+For file upload, we will learn how to upload a file to the server, and how to display image previews of files to upload. 
 
 We will also learn that images can be represented via _data URLs_, which are strings that represent the bytes in images, encoded in such a way that they can be easily stored in the database, or uploaded via POST requests.  A typical data URL for an image begins with `data:image/jpeg;base64,` followed by the bytes of the image encoded in [base64](https://docs.python.org/3/library/base64.html) format. 
 
