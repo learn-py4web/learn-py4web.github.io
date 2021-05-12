@@ -9,11 +9,16 @@ For file upload, we will learn how to upload a file to the server, how to upload
 * [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
 * [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
 * [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
+* [Code for uploading images with preview](https://bitbucket.org/luca_de_alfaro/upload_with_preview/).
+* [Code to add images to contacts](https://bitbucket.org/luca_de_alfaro/contacts_with_images/).
 
 ## Videos
 
 * [Implementing star ratings in Vue.js](https://youtu.be/IzkwpjE49Gs)
 * [Implementing a search bar](https://youtu.be/TS6ToY5s0Eg).  This is a lower-quality video cut from a lecture.
 * [Uploading files to the server](https://youtu.be/PaR4v7-OjXs) using Vue.js.
+* [Uploading images with preview](https://youtu.be/5JrWHyGCS0w).
+* [Adding images to contacts](https://youtu.be/VDPnflLmUxA).
+
 
 
