@@ -37,4 +37,19 @@ We show how to implement a complete app, including file deletion and download.
 * [Part 4: The server](https://youtu.be/4eRQIcWN_3o).
 * [Part 5: The client](https://youtu.be/EqrGKq76SxQ).
 
+### **I told you this was advanced material!**
+
+Even google agrees that this is quite advanced material (see below).  In case you want to benefit from this lesson, in spite of the restrictions, you can watch it here: 
+
+* [Part 1: The goal](https://drive.google.com/file/d/1wDRGwTtUSGA9AADGUw1G5KflyR5Tq0fX/view?usp=sharing).
+* [Part 2: Setup](https://drive.google.com/file/d/1SibwY-7EyU68fIhFjBQ_3luel1kx43Lh/view?usp=sharing).
+* [Part 3: The database](https://drive.google.com/file/d/1uboo6RBJbYufi3psvLDsQJ98s3sItVIs/view?usp=sharing).
+* [Part 4: The server](https://drive.google.com/file/d/1XuaJfrkA4xBYPZ8uv0ApTQUVLNx5fp6N/view?usp=sharing).
+* [Part 5: The client](https://drive.google.com/file/d/1IkE0dFD1_T9Fun49flvZApAA3O9C0xy3/view?usp=sharing).
+
+But be warned: web development IS advanced, and not suitable for everyone!  Not even Google, who knows a couple of things about cloud, can make sense of it -- enough said! 
+
+---
+
+![Indeed, my material is not suitable to inexperienced developers](files/unit-18-is-advanced.png)
 

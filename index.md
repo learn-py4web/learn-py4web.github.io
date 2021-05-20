@@ -47,7 +47,7 @@ _Building Dynamic Pages with JavaScript and Vue.js_
 * [Unit 15](unit15.md): Vue.js.
 * [Unit 16](unit16.md): A Contacts App in Vue.js.
 * [Unit 17](unit17.md): Star ratings, file uploads and data URLs.
-* [Unit 18](unit18.md): Storing files in Google Cloud Storage 
+* [Unit 18](unit18.md): Storing files in Google Cloud Storage.
 
 ## How-To Resources
 
