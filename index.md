@@ -51,8 +51,8 @@ _Building Dynamic Pages with JavaScript and Vue.js_
 
 ## How-To Resources
 
-* [Howto 1](howto2.md): Creating applications.
-* [Howto 2](howto1.md): Debugging.
+* [Howto 1](howto1.md): Creating applications.
+* [Howto 2](howto2.md): Debugging.
 
 ## License and Collaboration
 
