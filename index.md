@@ -49,6 +49,10 @@ _Building Dynamic Pages with JavaScript and Vue.js_
 * [Unit 17](unit17.md): Star ratings, file uploads and data URLs.
 * [Unit 18](unit18.md): Storing files in Google Cloud Storage.
 
+_Hosting Your App In the Cloud_
+
+* [Unit 19](unit19.md): Deploying your app to Google Appengine and Google Cloud SQL.
+
 ## How-To Resources
 
 * [Howto 1](howto1.md): Creating applications.
