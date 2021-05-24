@@ -25,11 +25,9 @@ Data URLs enable us to convert images into strings, and thus, treat them just li
 
 ## Videos
 
-* [Implementing star ratings in Vue.js](https://youtu.be/IzkwpjE49Gs)
-* [Implementing a search bar](https://youtu.be/TS6ToY5s0Eg).  This is a lower-quality video cut from a lecture.
-* [Uploading files to the server](https://youtu.be/PaR4v7-OjXs) using Vue.js.
-* [Uploading images with preview](https://youtu.be/5JrWHyGCS0w).
-* [Adding images to contacts](https://youtu.be/VDPnflLmUxA).
-
-
+* [Implementing star ratings in Vue.js](https://drive.google.com/file/d/1qGqAcgCv9d5evZL8lj0O2sIL0UwlCFKW/view?usp=sharing).
+* [Implementing a search bar](https://drive.google.com/file/d/1cDYgOOm5SNfMtL6LrJobRQkyJvExwYNZ/view?usp=sharing).  This is a lower-quality video cut from a lecture.
+* [Uploading files to the server](https://drive.google.com/file/d/1v5iOhw-GYFVd90pjHBtLgkvkvieY5zs9/view?usp=sharing) using Vue.js.
+* [Uploading images with preview](https://drive.google.com/file/d/1zQJ1DZAlRobOvf9wYCpj7lsnsLzKCVtb/view?usp=sharing).
+* [Adding images to contacts](https://drive.google.com/file/d/1ccBp4iZOf9dEoIviVT-wSUR2Rtc2yOq_/view?usp=sharing).
 

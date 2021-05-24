@@ -13,4 +13,4 @@ In this unit, we will introduce the basics of vue.js and how to use it alongside
 
 ## Videos
 
-* [A First Example of a Vue App](https://youtu.be/x-DEYiyPblk).
+* [A First Example of a Vue App](https://drive.google.com/file/d/1dDSdW8yTxe113W4XCoIQD7R6Q0zC4SSb/view?usp=sharing).

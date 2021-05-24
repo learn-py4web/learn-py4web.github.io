@@ -9,4 +9,4 @@ In this unit, we talk about data consistency, and we introduce the notions of _d
 
 ## Videos
 
-* [Database consistency and transactions](https://youtu.be/bcl_6_QP2ow)
+* [Database consistency and transactions](https://drive.google.com/file/d/1-ARkKz-isr_9MVFRobdVyn4WViouddhN/view?usp=sharing).

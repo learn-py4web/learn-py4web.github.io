@@ -17,6 +17,6 @@ Resources in boldface are strongly recommended readings.
 
 ## Videos
 
-* [Designing a database schema](https://youtu.be/IBtoCJK5BlU)
-* [Querying multiple tables in a database schema](https://youtu.be/iglsK-MhRd4)
-* [An example: registering for classes](https://youtu.be/wBRWkpq-OKc)
+* [Designing a database schema](https://drive.google.com/file/d/10NejC1lF8It8YO1DVXYRVibkDiqT3Hps/view?usp=sharing).
+* [Querying multiple tables in a database schema](https://drive.google.com/file/d/1vSS9fVZYDFIPxQsCn3CTtHo6A1QQCseY/view?usp=sharing).
+* [An example: registering for classes](https://drive.google.com/file/d/15PUSkePFn57u1WoKMbZDcFWh_RMt7nhe/view?usp=sharing).

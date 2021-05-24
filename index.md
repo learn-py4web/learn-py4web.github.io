@@ -12,7 +12,7 @@ For more details, you can read the [class syllabus](syllabus.md).
 
 ## Lectures
 
-The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
+The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class.  
 
 _Installation_
 * [Unit 1](unit1.md): Installing py4web and editing py4web sites.
@@ -57,6 +57,10 @@ _Hosting Your App In the Cloud_
 
 * [Howto 1](howto1.md): Creating applications.
 * [Howto 2](howto2.md): Debugging.
+
+## Playlist
+
+All videos are part of this [YouTube playlist](https://www.youtube.com/playlist?list=PLAVb3DQlAH4tIvdAsmese0_xRkvZYlox0).  Videos in the playlist have (automatically generated) captions.
 
 ## License and Collaboration
 

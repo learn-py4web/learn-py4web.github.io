@@ -20,6 +20,6 @@ In this unit, we will learn how to develop a Vue app that manages a list of cont
 
 ## Videos
 
-* [A contacts app in Vue.js](https://youtu.be/Qh3xUZWsqR4).
-* [Editing contacts in place](https://youtu.be/gi7EDFLvXyA). 
-* [Reactivity](https://youtu.be/4Rc_33ee9Yc), or better, how to debug reactivity issues in Vue. 
+* [A contacts app in Vue.js](https://drive.google.com/file/d/1Mzoj6-IMbsouH4eKtuEToidfvToWJyV8/view?usp=sharing).
+* [Editing contacts in place](https://drive.google.com/file/d/1-H7gZV-RCNIjR3mlj-0Ugs37Ycc1qGdK/view?usp=sharing). 
+* [Reactivity](https://drive.google.com/file/d/1gfV9eL4GJCFFANBdqaUDqyuTlabMEMFk/view?usp=sharing), or better, how to debug reactivity issues in Vue. 
