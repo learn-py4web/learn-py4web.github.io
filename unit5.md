@@ -11,5 +11,5 @@ In this unit, we learn how to create a simple app and serve web requests, produc
 
 ## Videos
 
-* [Serving simple pages with py4web](https://youtu.be/asLu6Z42Ed8)
-* [YATL, py4web's templating language](https://youtu.be/9sa6oDcERLI)
+* [Serving simple pages with py4web](https://drive.google.com/file/d/1ba662RPRof3SVmK1GXzECPphH3TPgI1m/view?usp=sharing).
+* [YATL, py4web's templating language](https://drive.google.com/file/d/1CT5u255zk0amRIhBk3Atm2FOjeJWtXU6/view?usp=sharing).

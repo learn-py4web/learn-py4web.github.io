@@ -19,6 +19,6 @@ We will also learn how to examine the database content, which is useful in debug
 
 ## Videos
 
-* [Fixtures, sessions, connection to the database, user auth](https://youtu.be/kSNrwf9pO3Q).
-* [Login via email](https://youtu.be/v-ssIBYwgp0).  This is a longer and somewhat advanced video, in which we illustrate how to build an `auth` module that does not require a password.  Users sign in by entering their email address.  They receive a link sent to that email, and clicking on the link logs them in. 
+* [Fixtures, sessions, connection to the database, user auth](https://drive.google.com/file/d/1wKCUvEbM8lNO2sD95TfZ2YIT0_EFEy8J/view?usp=sharing).
+* [Login via email](https://drive.google.com/file/d/13jYWPT3pezVC17WsgRf-b9jS_nSNuafq/view?usp=sharing).  This is a longer and somewhat advanced video, in which we illustrate how to build an `auth` module that does not require a password.  Users sign in by entering their email address.  They receive a link sent to that email, and clicking on the link logs them in. 
 

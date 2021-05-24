@@ -12,9 +12,16 @@ In this unit, we learn how we can create simple database tables, and how we can 
 * [Learning forms on the MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms) contains good introductory material on HTML forms. 
 * [Typical GET vs POST request processing](https://docs.google.com/presentation/d/1Q-HMRhR4BYkoIXy1cfVE9CP4jM1VeZrgvoLg3hppmYQ/edit?usp=sharing)
 
+## Code
+
+* [code for Creating a simple database table](https://bitbucket.org/luca_de_alfaro/lecture_table_form/). 
+* [Code for A first simple form](https://bitbucket.org/luca_de_alfaro/simple_form/).
+* [Code for An attack to the simple form](https://bitbucket.org/luca_de_alfaro/simple_form_attacker/).
+* [Code for Form processing with py4web](https://bitbucket.org/luca_de_alfaro/lecture_py4web_forms/).
+
 ## Videos
 
-* [Creating a simple database table](https://youtu.be/QMiwm0ZTEAA) ([code repository](https://bitbucket.org/luca_de_alfaro/lecture_table_form/))
-* [A first, simple, form](https://youtu.be/3nkdtnvFfdw) ([code repository](https://bitbucket.org/luca_de_alfaro/simple_form/))
-* [An attack to the simple form](https://youtu.be/qvWVFy8pRxY) ([code repository](https://bitbucket.org/luca_de_alfaro/simple_form_attacker/))
-* [Form processing with py4web](https://youtu.be/_prMUT6EpUc) ([code repository](https://bitbucket.org/luca_de_alfaro/lecture_py4web_forms/))
+* [Creating a simple database table](https://drive.google.com/file/d/1OcBSs5h0Ck8gUW9PJsRCzsAld_-e68tC/view?usp=sharing).
+* [A first, simple, form](https://drive.google.com/file/d/1sF9CW9UnHSg4vsFir8NnWhCM4o3pxzsL/view?usp=sharing).
+* [An attack to the simple form](https://drive.google.com/file/d/1UixUtEBc61c0aOKfJT9wsjsaDJIJyNj1/view?usp=sharing).
+* [Form processing with py4web](https://drive.google.com/file/d/1SBlc0dXPkpnSdPNiMXeivNXYtk9-VdUA/view?usp=sharing).
