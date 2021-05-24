@@ -13,9 +13,14 @@ We also learn how to use SASS to customize Bulma to our taste.
 * [SASS](https://sass-lang.com), a language that enables you to write CSS while preserving your mental sanity. 
 * [Bulma Customization](https://bulma.io/documentation/customize/with-sass-cli/). 
 
+## Code
+
+* [Code used in the Generating CSS via SASS video](https://bitbucket.org/luca_de_alfaro/sass-example/)
+* [Code used in the video on Using SASS to Customize Bulma](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/)
+
 ## Videos
 
-* [CSS in a little more depth](https://youtu.be/HpK6L4VAEXk)
-* [Generating CSS via SASS](https://youtu.be/w0CCd9kmMyU) ([code used in the video](https://bitbucket.org/luca_de_alfaro/sass-example/))
-* [Using SASS to customize Bulma](https://youtu.be/IDhRW4FIPyw) ([code used in the video](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/))
+* [CSS in a little more depth](https://drive.google.com/file/d/1HWJPOXbgGqjzooibNXdEX9QFKWAr9-z0/view?usp=sharing).
+* [Generating CSS via SASS](https://drive.google.com/file/d/1jhVdbQngvgFB7RCStL7ITRnAWCsMm7DV/view?usp=sharing).
+* [Using SASS to customize Bulma](https://drive.google.com/file/d/1wqm67_VuoiiNXPzOqA0K49Ksazbl55F_/view?usp=sharing).
 
