@@ -11,8 +11,13 @@ In this Unit we cover how to host your app on Google Appengine, with data stored
 
 ## Code
 
-* You need to be running a version of py4web that includes the changes in the [luca-gcloud](https://github.com/lucadealfaro/py4web/tree/luca-gcloud) branch.  I think the py4web maintainers will merge the [PR](https://github.com/web2py/py4web/pull/539) soon, after that, you can simply update your py4web. 
+
 * [google_cloud_example app](https://bitbucket.org/luca_de_alfaro/google_cloud_example/): This is the app we upload to the cloud (the README.md is important, and so are the details in `commons.py` and `settings.py`).
+
+## Notes
+
+* You need to be running a version of py4web that includes the changes in this [PR](https://github.com/web2py/py4web/pull/539).  **Update your py4web to the latest version to get them.**
+* Google is everywhere... but especially in Los Angeles!  Don't do as I did in my video: **do not create the database in Oregon (us-west1); rather, choose Los Angeles (us-west2).** For some reason, Google appengine is not available in us-west1, and it is best to keep database and appengine in the same location, to reduce latency.
 
 ## Videos
 
