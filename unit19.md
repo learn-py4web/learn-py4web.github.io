@@ -18,6 +18,7 @@ In this Unit we cover how to host your app on Google Appengine, with data stored
 
 * You need to be running a version of py4web that includes the changes in this [PR](https://github.com/web2py/py4web/pull/539).  **Update your py4web to the latest version to get them.**
 * Google is everywhere... but especially in Los Angeles!  Don't do as I did in my video: **do not create the database in Oregon (us-west1); rather, choose Los Angeles (us-west2).** For some reason, Google appengine is not available in us-west1, and it is best to keep database and appengine in the same location, to reduce latency.
+* The DB machine type I used is db-f1-micro, which is [$7.67 / month](https://cloud.google.com/sql/pricing#mysql-pg-pricing) at the time of writing.
 
 ## Videos
 
