@@ -53,6 +53,10 @@ _Hosting Your App In the Cloud_
 
 * [Unit 19](unit19.md): Deploying your app to Google Appengine and Google Cloud SQL.
 
+_Onwards to E-commerce_
+
+* [Unit 20](unit20.md): Building an online store using the Stripe API.
+
 ## How-To Resources
 
 * [Howto 1](howto1.md): Creating applications.
