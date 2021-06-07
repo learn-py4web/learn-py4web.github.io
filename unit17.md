@@ -21,7 +21,7 @@ Data URLs enable us to convert images into strings, and thus, treat them just li
 * [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
 * [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
 * [Code for uploading images with preview](https://bitbucket.org/luca_de_alfaro/upload_with_preview/).
-* [Code to add images to contacts](https://bitbucket.org/luca_de_alfaro/contacts_with_images/).
+* [Code to add images to contacts](https://github.com/learn-py4web/contacts_with_images).
 
 ## Videos
 

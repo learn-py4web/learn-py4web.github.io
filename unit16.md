@@ -22,10 +22,10 @@ We also discuss how to implement navigation in Vue, that is, how to send the use
 
 ## Code
 
-* [A contacts app in Vue.js](https://bitbucket.org/luca_de_alfaro/lecture_vue_contacts/).
-* [Editing contacts in place](https://bitbucket.org/luca_de_alfaro/vue_contacts_edit_in_place/).
-* [Vue reactivity](https://bitbucket.org/luca_de_alfaro/vue_reactivity/); the last commit corresponds to the end of the class; look at previous commits to see the initial state. 
-* [Code for the navigation in Vue app](https://bitbucket.org/luca_de_alfaro/vue_navigation/).  You need to look at the various [branches](https://bitbucket.org/luca_de_alfaro/vue_navigation/branches/) of this repository to find the various versions of the navigation code discussed in the video. 
+* [A contacts app in Vue.js](https://github.com/learn-py4web/lecture_vue_contacts).
+* [Editing contacts in place](https://github.com/learn-py4web/lecture_vue_contacts_edit_in_place).
+* [Vue reactivity](https://github.com/learn-py4web/vue_reactivity); the last commit corresponds to the end of the class; look at previous commits to see the initial state. 
+* [Code for the navigation in Vue app](https://github.com/learn-py4web/vue_navigation).  You need to look at the various [branches](https://github.com/learn-py4web/vue_navigation/branches) of this repository to find the various versions of the navigation code discussed in the video. 
 
 ## Videos
 

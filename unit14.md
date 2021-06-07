@@ -11,8 +11,8 @@ In this unit, we will describe the basics of JavaScript, the language that runs 
 
 ## Code
 
-* [Code for the asynchonous JavaScript video](https://bitbucket.org/luca_de_alfaro/promises/).
-* [Code for the jQuery example](https://bitbucket.org/luca_de_alfaro/jquery_example/).
+* [Code for the asynchonous JavaScript video](https://github.com/learn-py4web/promises).
+* [Code for the jQuery example](https://github.com/learn-py4web/jquery_example).
 
 ## Videos
 

@@ -10,7 +10,7 @@ In this unit, we will introduce the basics of vue.js and how to use it alongside
 ## Code
 
 * [Starting code for our Vue apps](https://github.com/learn-py4web/starter_vue)
-* [Code for the first example of Vue App](https://bitbucket.org/luca_de_alfaro/vue_comments/).
+* [Code for the first example of Vue App](https://github.com/learn-py4web/vue_comments).
 
 ## Videos
 
