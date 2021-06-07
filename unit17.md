@@ -17,10 +17,10 @@ Data URLs enable us to convert images into strings, and thus, treat them just li
 
 ## Code
 
-* [Code for star rating](https://bitbucket.org/luca_de_alfaro/star_ratings_2021/). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
-* [Code to create a search bar](https://bitbucket.org/luca_de_alfaro/search_bar/)
-* [Code for uploading files to the server](https://bitbucket.org/luca_de_alfaro/simple_file_upload/).
-* [Code for uploading images with preview](https://bitbucket.org/luca_de_alfaro/upload_with_preview/).
+* [Code for star rating](https://github.com/learn-py4web/star_ratings). Remember, you need to visit the `setup` controller to initialize the database once, before you can use the code.
+* [Code to create a search bar](https://github.com/learn-py4web/search_bar).
+* [Code for uploading files to the server](https://github.com/learn-py4web/simple_file_upload).
+* [Code for uploading images with preview](https://github.com/learn-py4web/upload_with_preview).
 * [Code to add images to contacts](https://github.com/learn-py4web/contacts_with_images).
 
 ## Videos
