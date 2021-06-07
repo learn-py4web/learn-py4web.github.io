@@ -27,7 +27,7 @@ We show how to implement a complete app, including file deletion and download.
 
 ## Code
 
-* [GCS file storage](https://bitbucket.org/luca_de_alfaro/gcs_file_storage/).  See the setup video and the README.md file for instructions. 
+* [GCS file storage](https://github.com/learn-py4web/gcs_file_storage).  See the setup video and the README.md file for instructions. 
 
 ## Videos
 

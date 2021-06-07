@@ -57,6 +57,10 @@ _Onwards to E-commerce_
 
 * [Unit 20](unit20.md): Building an online store using the Stripe API.
 
+## Code
+
+Each unit contains the links to the code repositories used in that unit.  All code is provided as part of the [learn-py4web](https://github.com/learn-py4web) code on GitHub.  
+
 ## How-To Resources
 
 * [Howto 1](howto1.md): Creating applications.
