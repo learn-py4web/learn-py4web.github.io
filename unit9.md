@@ -12,7 +12,7 @@ We also learn how to use YATL helpers to generate HTML server-side, and we learn
 
 ## Code
 
-* [Code repository for this unit](https://bitbucket.org/luca_de_alfaro/helpers_example/)
+* [Code repository for this unit](https://github.com/learn-py4web/helpers_example)
 
 ## Videos
 

@@ -7,7 +7,7 @@ Input validation aims at ensuring that correct information is inserted in the da
 The py4web grid provides a quick way to construct tables from database content. We show you how to use it and customize it to your needs. 
 ## Code
 
-* [Code for grid lecture](https://bitbucket.org/luca_de_alfaro/lecture_grid_and_validation/) used in this unit.
+* [Code for grid lecture](https://github.com/learn-py4web/lecture_grid_and_validation) used in this unit.
 
 ## Resources
 
