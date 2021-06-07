@@ -15,7 +15,10 @@ We will also learn how to examine the database content, which is useful in debug
     * `@action.uses(auth.user, ...)` enforces the fact that the user has to be logged in to visit that particular page. 
 * [DAL: The Database Abstraction Layer](https://py4web.com/_documentation/static/en/chapter-07.html), in the py4web documentation.
 * [sqlite](https://sqlite.org/index.html), the database server that is used for development.  sqlite locks the entire database when an operation is in progress, so it is not suited to multi-user sites; it is used only in development. 
-* [Code for the login via email video](https://bitbucket.org/luca_de_alfaro/login_via_email/)
+
+## Code
+
+* [Code for the login via email video](https://github.com/learn-py4web/login_via_email)
 
 ## Videos
 

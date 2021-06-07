@@ -10,7 +10,7 @@
 
 ## Code 
 
-* [Code for sample store](https://bitbucket.org/luca_de_alfaro/vue_store/).
+* [Code for sample store](https://github.com/learn-py4web/vue_shop).
 
 ## Video
 

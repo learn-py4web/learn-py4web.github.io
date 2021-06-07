@@ -14,10 +14,10 @@ In this unit, we learn how we can create simple database tables, and how we can 
 
 ## Code
 
-* [code for Creating a simple database table](https://bitbucket.org/luca_de_alfaro/lecture_table_form/). 
-* [Code for A first simple form](https://bitbucket.org/luca_de_alfaro/simple_form/).
-* [Code for An attack to the simple form](https://bitbucket.org/luca_de_alfaro/simple_form_attacker/).
-* [Code for Form processing with py4web](https://bitbucket.org/luca_de_alfaro/lecture_py4web_forms/).
+* [code for Creating a simple database table](https://github.com/learn-py4web/lecture_table_form). 
+* [Code for A first simple form](https://github.com/learn-py4web/simple_form).
+* [Code for An attack to the simple form](https://github.com/learn-py4web/simple_form_attacker).
+* [Code for Form processing with py4web](https://github.com/learn-py4web/lecture_py4web_forms).
 
 ## Videos
 

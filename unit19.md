@@ -12,7 +12,7 @@ In this Unit we cover how to host your app on Google Appengine, with data stored
 ## Code
 
 
-* [google_cloud_example app](https://bitbucket.org/luca_de_alfaro/google_cloud_example/): This is the app we upload to the cloud (the README.md is important, and so are the details in `commons.py` and `settings.py`).
+* [google_cloud_example app](https://github.com/learn-py4web/google_cloud_example): This is the app we upload to the cloud (the README.md is important, and so are the details in `commons.py` and `settings.py`).
 
 ## Notes
 

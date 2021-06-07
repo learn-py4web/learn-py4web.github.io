@@ -15,8 +15,8 @@ We also learn how to use SASS to customize Bulma to our taste.
 
 ## Code
 
-* [Code used in the Generating CSS via SASS video](https://bitbucket.org/luca_de_alfaro/sass-example/)
-* [Code used in the video on Using SASS to Customize Bulma](https://bitbucket.org/luca_de_alfaro/customize-bulma-with-sass/)
+* [Code used in the Generating CSS via SASS video](https://github.com/learn-py4web/sass-example)
+* [Code used in the video on Using SASS to Customize Bulma](https://github.com/learn-py4web/config-bulma-example)
 
 ## Videos
 
