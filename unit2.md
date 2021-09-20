@@ -4,7 +4,8 @@ In this unit, we learn the basics of HTML and CSS, and we give a first introduct
 
 ## Resources
 
-* [HTML tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [HTML tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
+* [HTML tutorial on W3 Schools](https://www.w3schools.com/html/).
 * [CSS](https://en.wikipedia.org/wiki/CSS).  In particular, read the selectors portion.  
 * [Bulma](https://bulma.io), the CSS framework we are going to use. 
 
