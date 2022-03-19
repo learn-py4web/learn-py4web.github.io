@@ -46,16 +46,17 @@ _Building Dynamic Pages with JavaScript and Vue.js_
 * [Unit 14](unit14.md): JavaScript.
 * [Unit 15](unit15.md): Introduction to Vue.js
 * [Unit 16](unit16.md): Building applications with Vue.js. 
-* [Unit 17](unit17.md): Star ratings, file uploads and data URLs.
-* [Unit 18](unit18.md): Storing files in Google Cloud Storage.
+* [Unit 17](unit17.md): Star ratings and search bars.
+* [Unit 18](unit18.md): File uploads and data URLs.
+* [Unit 19](unit19.md): Storing files in Google Cloud Storage.
 
 _Hosting Your App In the Cloud_
 
-* [Unit 19](unit19.md): Deploying your app to Google Appengine and Google Cloud SQL.
+* [Unit 20](unit20.md): Deploying your app to Google Appengine and Google Cloud SQL.
 
 _Onwards to E-commerce_
 
-* [Unit 20](unit20.md): Building an online store using the Stripe API.
+* [Unit 21](unit21.md): Building an online store using the Stripe API.
 
 ## Code
 

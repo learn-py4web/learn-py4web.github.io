@@ -1,40 +1,27 @@
-# Unit 18: Storing files in Google Cloud Storage
+# Unit 18: File uploads and data URLs
 
-It's all very good to be able to upload files, but the problem is, what should we do with the uploaded files? 
+In this unit, we will learn how to upload a file to the server, and how to display image previews of files to upload. 
 
-One may think, of course, we can just put them in the file system.  But this does not work.  As we have seen in [Unit 6](unit6.md), in a scalable web server there is not one, but potentially many servers, which are brought up and down on demand.  And for this reason, in the cloud deployment strategy we will present, web servers typically do not come with modifiable file systems.  Cloud web servers typically have read-only file systems, so that they are easy to duplicate and clone. 
-
-If not in the file system, then we can consider using for uploaded files the same solution we use for all other data, namely, the database. 
-In principle this works, and this works in practice also for small files, such as small thumbnail images. 
-But this is very wasteful for large files, as the cost of database storage, typically in fast flash memory attached to a high-capacity dedicated host, is quite high. 
-
-So the solution is to upload files to a blob store, such as [Amazon S3](https://aws.amazon.com/s3/) or [Google Cloud Storage](https://cloud.google.com/storage/).  In this unit, we pursue the latter solution. 
-
-When a user wants to upload a file, this is what happens: 
-
-1. The JavaScript in the browser asks the server for a signed URL to upload the file to Google Cloud Storage (GCS). 
-2. The server replies with a signed URL to upload the file to a randomly-named blob in GCS. 
-3. The JavaScript uploads the file to said blob. 
-4. The JavaScript notifies the server that the upload succeeded. 
-5. The server stores the name, type, size of the uploaded file, along with the blob used to store it in GCS. 
-
-We show how to implement a complete app, including file deletion and download. 
+We will also learn that images can be represented via _data URLs_, which are strings that represent the bytes in images, encoded in such a way that they can be easily stored in the database, or uploaded via POST requests.  A typical data URL for an image begins with `data:image/jpeg;base64,` followed by the bytes of the image encoded in [base64](https://docs.python.org/3/library/base64.html) format. 
+Data URLs enable us to convert images into strings, and thus, treat them just like any other simple data type, such as integers, floating point, etc, that can be send back and forth between browser and server via json and stored in the database.  See an example of this in the _adding images to contacts_ video.
 
 ## Resources
 
-* [Google Cloud Storage](https://cloud.google.com/storage/).
-* [NQGCS](https://bitbucket.org/luca_de_alfaro/nqgcs/), the package we use to access GCS from the server. 
+* Information on [base64](https://docs.python.org/3/library/base64.html).
+* Documentation on [data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs).
+* Wikipedia page on [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme) (a.k.a. data URLs).
+* Documentation on [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader).
+* Documentation on [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
 
 ## Code
 
-* [GCS file storage](https://github.com/learn-py4web/gcs_file_storage).  See the setup video and the README.md file for instructions. 
+* [Code for uploading files to the server](https://github.com/learn-py4web/simple_file_upload).
+* [Code for uploading images with preview](https://github.com/learn-py4web/upload_with_preview).
+* [Code to add images to contacts](https://github.com/learn-py4web/contacts_with_images).
 
 ## Videos
 
-* [Part 1: The goal](https://drive.google.com/file/d/1wDRGwTtUSGA9AADGUw1G5KflyR5Tq0fX/view?usp=sharing).
-* [Part 2: Setup](https://drive.google.com/file/d/1SibwY-7EyU68fIhFjBQ_3luel1kx43Lh/view?usp=sharing).
-* [Part 3: The database](https://drive.google.com/file/d/1uboo6RBJbYufi3psvLDsQJ98s3sItVIs/view?usp=sharing).
-* [Part 4: The server](https://drive.google.com/file/d/1XuaJfrkA4xBYPZ8uv0ApTQUVLNx5fp6N/view?usp=sharing).
-* [Part 5: The client](https://drive.google.com/file/d/1IkE0dFD1_T9Fun49flvZApAA3O9C0xy3/view?usp=sharing).
-
+* [Uploading files to the server](https://drive.google.com/file/d/1v5iOhw-GYFVd90pjHBtLgkvkvieY5zs9/view?usp=sharing) using Vue.js.
+* [Uploading images with preview](https://drive.google.com/file/d/1zQJ1DZAlRobOvf9wYCpj7lsnsLzKCVtb/view?usp=sharing).
+* [Adding images to contacts](https://drive.google.com/file/d/1ccBp4iZOf9dEoIviVT-wSUR2Rtc2yOq_/view?usp=sharing).
 

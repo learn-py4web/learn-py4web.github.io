@@ -1,17 +1,29 @@
-# Unit 20: Building an Online Store Using the Stripe API
+# Unit 20: Deploying your App to Google Appengine and Google Cloud SQL
+
+In this Unit we cover how to host your app on Google Appengine, with data stored in Google SQL.  This gives you an extremely scalable, and secure, hosting for your application. 
 
 ## Resources
 
-* [localStore](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). 
-* [Stripe API reference](https://stripe.com/docs/api).
-* [Stripe Checkout documentation](https://stripe.com/docs/payments/checkout). We use Stripe Checkout to allow users to pay for products. 
-* **[Stripe Checkout sample integration](https://stripe.com/docs/checkout/integration-builder)**, on which this lecture is based. 
-* [Starting a business in California](https://www.sos.ca.gov/business-programs/business-entities/starting-business).  You should consider setting up a corporation if you conduct business online, if not else to protect yourself from liability. 
+* [Installation of Google Cloud SDK](https://cloud.google.com/sdk/docs/install).  You need to install these tools. 
+* [Google Appengine Python 3 documentation](https://cloud.google.com/appengine/docs/standard/python3/).
+* [Google Cloud SQL documentation](https://cloud.google.com/sql/docs/).
+* [MySQL 5.7 documentation](https://dev.mysql.com/doc/refman/5.7/en/).
 
-## Code 
+## Code
 
-* [Code for sample store](https://github.com/learn-py4web/vue_shop).
 
-## Video
+* [google_cloud_example app](https://github.com/learn-py4web/google_cloud_example): This is the app we upload to the cloud (the README.md is important, and so are the details in `commons.py` and `settings.py`).
 
-* [Implementing an Online Store Using the Stripe API](https://drive.google.com/file/d/1czs_hiKSRF8ILk4x2ymOGcw1KN7QG2bP/view?usp=sharing).
+## Notes
+
+* You need to be running a version of py4web that includes the changes in this [PR](https://github.com/web2py/py4web/pull/539).  **Update your py4web to the latest version to get them.**
+* Google is everywhere... but especially in Los Angeles!  Don't do as I did in my video: **do not create the database in Oregon (us-west1); rather, choose Los Angeles (us-west2).** For some reason, Google appengine is not available in us-west1, and it is best to keep database and appengine in the same location, to reduce latency.
+* The DB machine type I used is db-f1-micro, which is [$7.67 / month](https://cloud.google.com/sql/pricing#mysql-pg-pricing) at the time of writing.
+
+## Videos
+
+* [Part 1: Creating the cloud project and configuring cloud OAuth login](https://drive.google.com/file/d/1QhBs1UZhJ8UoGVZbCQ6K6J0hh-3hwydD/view?usp=sharing).
+* [Part 2: Configuring your app for OAuth login](https://drive.google.com/file/d/1CovGSCQeJWPyfVHnf2pvMSh-t72QZwYM/view?usp=sharing).
+* [Part 3: Configuring the database connection](https://drive.google.com/file/d/12HOWBTMAw1FjOm9jU9UbgMwK6pujcMKb/view?usp=sharing).
+* [Part 4: Creating and configuring the database](https://drive.google.com/file/d/1IXwr5DSBSYMAEHK6cPqEsEWKtWAulENz/view?usp=sharing).
+* [Part 5: Deploying your app](https://drive.google.com/file/d/1thUcj2HczBq7bXf2TrhzssELPVOf1xrq/view?usp=sharing).
