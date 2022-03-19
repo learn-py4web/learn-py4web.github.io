@@ -19,3 +19,41 @@ In this unit, we learn how to install py4web, and how to edit its files via eith
 * [Editing in py4web](https://drive.google.com/file/d/1IDP5S7dA_igc73bwtch9vHOnZrMAJaQa/view?usp=sharing)
 
 _Note: The installation video briefly mentions two minor bugs; these have been fixed already in py4web._ 
+
+## VSCode Configuration Files
+
+On my linux system, I use the following files to configure VSCode for py4web development (replace `/home/luca` with your home directory). The files are in the root py4web directory. 
+
+### `launch.json`
+
+```
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "py4web",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/luca/py4web/py4web.py",
+            "args": ["run", "apps"],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+        }
+    ]
+}
+```
+
+### `settings.json`
+
+I have a Conda environment called `py4web` for py4web development. 
+I installed the requirements via: `python -m pip install -r requirements.txt`
+The code below is not strictly necessary, but it ensures that the correct python interpreter is used by default for this project. 
+
+```
+{
+    "python.defaultInterpreterPath": "~/anaconda3/env/py4web/bin/python"
+}
+```
