@@ -14,7 +14,8 @@ For more details, you can read the [class syllabus](syllabus.md).
 
 The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
 Each unit contains videos, pointers to resources, and links to the code repositories used in that unit.  All code is provided as part of the [learn-py4web](https://github.com/learn-py4web) code on GitHub; the code [was updated](code_changes.md) since the lectures were recorded but the changes are minor. 
-The videos are provided both via Google Drive, and via YouTube; the ones on YouTube should have better captions, thanks to the [UC Santa Cruz Disability Resource Center](https://drc.ucsc.edu/).
+The videos are provided both via Google Drive, and via YouTube; the ones on YouTube should have better captions, thanks to the [UC Santa Cruz Disability Resource Center](https://drc.ucsc.edu/).  The videos can also be found in this [YouTube playlist](https://www.youtube.com/playlist?list=PLAVb3DQlAH4tIvdAsmese0_xRkvZYlox0).  
+
 
 _Installation_
 * [Unit 1](unit1.md): Installing py4web and editing py4web sites.
@@ -65,10 +66,6 @@ _Onwards to E-commerce_
 * [Howto 1](howto1.md): Creating applications.
 * [Howto 2](howto2.md): Debugging.
 
-## Playlist
-
-All videos are part of this [YouTube playlist](https://www.youtube.com/playlist?list=PLAVb3DQlAH4tIvdAsmese0_xRkvZYlox0).  Videos in the playlist have (automatically generated) captions.
-
 ## License and Collaboration
 
 Copyright of the author (Luca de Alfaro, if not otherwise noted).
@@ -78,4 +75,4 @@ Likewise, if you create your own versions of some of the videos, let me know, an
 
 ---
 
-[Luca de Alfaro](https://luca.dealfaro.com), 2021.
+[Luca de Alfaro](https://luca.dealfaro.com), 2021-22.
