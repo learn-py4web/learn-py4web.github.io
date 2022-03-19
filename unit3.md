@@ -20,7 +20,7 @@ We also learn how to use SASS to customize Bulma to our taste.
 
 ## Videos
 
-* [CSS in a little more depth](https://drive.google.com/file/d/1HWJPOXbgGqjzooibNXdEX9QFKWAr9-z0/view?usp=sharing).
-* [Generating CSS via SASS](https://drive.google.com/file/d/1jhVdbQngvgFB7RCStL7ITRnAWCsMm7DV/view?usp=sharing).
-* [Using SASS to customize Bulma](https://drive.google.com/file/d/1wqm67_VuoiiNXPzOqA0K49Ksazbl55F_/view?usp=sharing).
+* [CSS in a little more depth](https://drive.google.com/file/d/1HWJPOXbgGqjzooibNXdEX9QFKWAr9-z0/view?usp=sharing) ([YouTube](https://youtu.be/HpK6L4VAEXk)).
+* [Generating CSS via SASS](https://drive.google.com/file/d/1jhVdbQngvgFB7RCStL7ITRnAWCsMm7DV/view?usp=sharing) ([YouTube](https://youtu.be/w0CCd9kmMyU)).
+* [Using SASS to customize Bulma](https://drive.google.com/file/d/1wqm67_VuoiiNXPzOqA0K49Ksazbl55F_/view?usp=sharing) ([YouTube](https://youtu.be/IDhRW4FIPyw)).
 

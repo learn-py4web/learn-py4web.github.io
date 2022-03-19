@@ -15,8 +15,8 @@ In this unit, we learn how to install py4web, and how to edit its files via eith
 
 ## Videos
 
-* [Installing py4web from git](https://drive.google.com/file/d/1lvXXe0BJZ6pGzNxLXHgfX5upC0d9z41a/view?usp=sharing).  If you really want, you can also [install py4web via pip](https://drive.google.com/file/d/1y8ZS__6LiFTeTCSoqRkPSOQLZSxf9y9d/view?usp=sharing), but the recommended way for this class is to install it from source.
-* [Editing in py4web](https://drive.google.com/file/d/1IDP5S7dA_igc73bwtch9vHOnZrMAJaQa/view?usp=sharing)
+* [Installing py4web from git](https://drive.google.com/file/d/1lvXXe0BJZ6pGzNxLXHgfX5upC0d9z41a/view?usp=sharing) ([YouTube](https://youtu.be/hv3aEaT6ulI)).  If you really want, you can also [install py4web via pip](https://drive.google.com/file/d/1y8ZS__6LiFTeTCSoqRkPSOQLZSxf9y9d/view?usp=sharing) ([YouTube](https://youtu.be/DM8Yy4WdmJ4)), but the recommended way for this class is to install it from source.
+* [Editing in py4web](https://drive.google.com/file/d/1IDP5S7dA_igc73bwtch9vHOnZrMAJaQa/view?usp=sharing) ([YouTube](https://youtu.be/xnyNbR4a-sQ))
 
 _Note: The installation video briefly mentions two minor bugs; these have been fixed already in py4web._ 
 

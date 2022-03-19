@@ -16,9 +16,9 @@ In this unit, we will describe the basics of JavaScript, the language that runs 
 
 ## Videos
 
-* [JavaScript basics](https://drive.google.com/file/d/1tlZC2yajNdMkWBWdg-kOwZAqb_1Snfvd/view?usp=sharing).
-* [JavaScript functions](https://drive.google.com/file/d/1ss71GF4iTgcSOL-g6pfV9W-9owfmUngL/view?usp=sharing).
-* [JavaScript objects](https://drive.google.com/file/d/1MH0ev1rK72b6uMjmcy_QxxnZE6tNSS4N/view?usp=sharing).
-* [Asynchronous JavaScript](https://drive.google.com/file/d/1qdYvqwPGyWvA9V58aM0aAZMLHQd6faRM/view?usp=sharing).
-* [jQuery](https://drive.google.com/file/d/1IRrSJpSTUkX8fvyYtSlLqknnqNjAfegd/view?usp=sharing).
+* [JavaScript basics](https://drive.google.com/file/d/1tlZC2yajNdMkWBWdg-kOwZAqb_1Snfvd/view?usp=sharing) ([YouTube](https://youtu.be/bcl_6_QP2ow)).
+* [JavaScript functions](https://drive.google.com/file/d/1ss71GF4iTgcSOL-g6pfV9W-9owfmUngL/view?usp=sharing) ([YouTube](https://youtu.be/69d-CUsxfpM)).
+* [JavaScript objects](https://drive.google.com/file/d/1MH0ev1rK72b6uMjmcy_QxxnZE6tNSS4N/view?usp=sharing) ([YouTube](https://youtu.be/Oevde8MHrEY)).
+* [Asynchronous JavaScript](https://drive.google.com/file/d/1qdYvqwPGyWvA9V58aM0aAZMLHQd6faRM/view?usp=sharing) ([YouTube](https://youtu.be/dafc124CHmg)).
+* [jQuery](https://drive.google.com/file/d/1IRrSJpSTUkX8fvyYtSlLqknnqNjAfegd/view?usp=sharing) ([YouTube](https://youtu.be/B8Q6cBb8IQw)).
 

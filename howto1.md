@@ -7,4 +7,4 @@
 
 ## Videos
 
-* [How to start a new project](https://drive.google.com/file/d/1Q9yOlrtogSQgYA2DjCQiN30IozaA8MzU/view?usp=sharing).
+* [How to start a new project](https://drive.google.com/file/d/1Q9yOlrtogSQgYA2DjCQiN30IozaA8MzU/view?usp=sharing) ([YouTube](https://youtu.be/PFN6w1UUfPo)).

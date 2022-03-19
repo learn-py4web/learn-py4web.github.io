@@ -19,8 +19,8 @@ The py4web grid provides a quick way to construct tables from database content. 
 
 ## Videos
 
-* [Validating table fields](https://drive.google.com/file/d/1KZIyd9cyO329aSYEPDUekA9jtQQqpTJs/view?usp=sharing).
-* [Form validation](https://drive.google.com/file/d/1Vqq5mGMSZz2MTKjirSwHOLL3-bqDO1e1/view?usp=sharing).
-* [The py4web grid](https://drive.google.com/file/d/1w3nrvx_I3jRCrVxGo0RfyeaHfYWHee_u/view?usp=sharing).
-* [Adding buttons to the grid](https://drive.google.com/file/d/1i6m-SMIdrphakcbGgveJQV76bxYg5nsJ/view?usp=sharing).
-* [Formatting fields in the grid](https://drive.google.com/file/d/1DvDI6hZ8RlHq-H5iUM5czeJO0tqIvh8p/view?usp=sharing).
+* [Validating table fields](https://drive.google.com/file/d/1KZIyd9cyO329aSYEPDUekA9jtQQqpTJs/view?usp=sharing) ([YouTube](https://youtu.be/clCumIwag8c)).
+* [Form validation](https://drive.google.com/file/d/1Vqq5mGMSZz2MTKjirSwHOLL3-bqDO1e1/view?usp=sharing) ([YouTube](https://youtu.be/DzJDBgeNIVo)).
+* [The py4web grid](https://drive.google.com/file/d/1w3nrvx_I3jRCrVxGo0RfyeaHfYWHee_u/view?usp=sharing) ([YouTube](https://youtu.be/kBq9M2-YXFk)).
+* [Adding buttons to the grid](https://drive.google.com/file/d/1i6m-SMIdrphakcbGgveJQV76bxYg5nsJ/view?usp=sharing) ([YouTube](https://youtu.be/3nY3hxGoovs)).
+* [Formatting fields in the grid](https://drive.google.com/file/d/1DvDI6hZ8RlHq-H5iUM5czeJO0tqIvh8p/view?usp=sharing) ([YouTube](https://youtu.be/b2zOzljqtig)).

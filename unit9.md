@@ -16,8 +16,8 @@ We also learn how to use YATL helpers to generate HTML server-side, and we learn
 
 ## Videos
 
-* [URLs](https://drive.google.com/file/d/1MAmNIov4sZWT48jzAdDAg_VHD9AsuAoL/view?usp=sharing): their structure and creation.
-* [URL design](https://drive.google.com/file/d/1A2fWB0GT6O1YqFPB0-eDRePcT3gzDrn6/view?usp=sharing): designing URLs for your applications.
-* [Conveying information to servers](https://drive.google.com/file/d/108Or0Ne4tX8tKyDYDI8g48LTPwmzJWC-/view?usp=sharing).
-* [YATL helpers](https://drive.google.com/file/d/1j8SdrrFUGobUmLa78tMSSixVSZ_u92hG/view?usp=sharing).
-* [Script injection attacks](https://drive.google.com/file/d/172YCEQakIvVdIaUugInnWin7YGmJrYf4/view?usp=sharing).
+* [URLs](https://drive.google.com/file/d/1MAmNIov4sZWT48jzAdDAg_VHD9AsuAoL/view?usp=sharing) ([YouTube](https://youtu.be/OonCQz79XOo)): their structure and creation.
+* [URL design](https://drive.google.com/file/d/1A2fWB0GT6O1YqFPB0-eDRePcT3gzDrn6/view?usp=sharing) ([YouTube](https://youtu.be/xIFPseE0QSE)): designing URLs for your applications.
+* [Conveying information to servers](https://drive.google.com/file/d/108Or0Ne4tX8tKyDYDI8g48LTPwmzJWC-/view?usp=sharing) ([YouTube](https://youtu.be/6jo3dJ9di3o)).
+* [YATL helpers](https://drive.google.com/file/d/1j8SdrrFUGobUmLa78tMSSixVSZ_u92hG/view?usp=sharing) ([YouTube](https://youtu.be/MQLoOTj80Hc)).
+* [Script injection attacks](https://drive.google.com/file/d/172YCEQakIvVdIaUugInnWin7YGmJrYf4/view?usp=sharing) ([YouTube](https://youtu.be/eEw1iorqRZY)).

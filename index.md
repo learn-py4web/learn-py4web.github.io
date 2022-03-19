@@ -13,7 +13,8 @@ For more details, you can read the [class syllabus](syllabus.md).
 ## Lectures
 
 The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
-The code [changed slightly](code_changes.md) since the lectures were recorded.  
+Each unit contains videos, pointers to resources, and links to the code repositories used in that unit.  All code is provided as part of the [learn-py4web](https://github.com/learn-py4web) code on GitHub; the code [was updated](code_changes.md) since the lectures were recorded but the changes are minor. 
+The videos are provided both via Google Drive, and via YouTube; the ones on YouTube should have better captions, thanks to the [UC Santa Cruz Disability Resource Center](https://drc.ucsc.edu/).
 
 _Installation_
 * [Unit 1](unit1.md): Installing py4web and editing py4web sites.
@@ -58,10 +59,6 @@ _Hosting Your App In the Cloud_
 _Onwards to E-commerce_
 
 * [Unit 21](unit21.md): Building an online store using the Stripe API.
-
-## Code
-
-Each unit contains the links to the code repositories used in that unit.  All code is provided as part of the [learn-py4web](https://github.com/learn-py4web) code on GitHub.  
 
 ## How-To Resources
 

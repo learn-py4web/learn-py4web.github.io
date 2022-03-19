@@ -6,9 +6,9 @@ Here, we consider what is required to serve dynamic web pages at scale, and how 
 
 ## Resources
 
-* [Notes from video on "Serving at Scale Dynamic Web Pages"](files/structure_of_a_web_server.pdf)
+* [Notes from video on "Serving at Scale Dynamic Web Pages"](files/structure_of_a_web_server.pdf).
 
 ## Videos
 
-* [Serving at Scale Dynamic Web Pages](https://drive.google.com/file/d/1DQvzyi-xMHkaJ1iM5CDCdH2Qsej9PMvJ/view?usp=sharing).
+* [Serving at Scale Dynamic Web Pages](https://drive.google.com/file/d/1DQvzyi-xMHkaJ1iM5CDCdH2Qsej9PMvJ/view?usp=sharing) ([YouTube](https://youtu.be/MAfGzs-xqhc)).
 
