@@ -12,7 +12,8 @@ For more details, you can read the [class syllabus](syllabus.md).
 
 ## Lectures
 
-The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class.  
+The lectures are organized into _units_.  The [syllabus](syllabus.md) provides an overview of the whole class. 
+The code [changed slightly](code_changes.md) since the lectures were recorded.  
 
 _Installation_
 * [Unit 1](unit1.md): Installing py4web and editing py4web sites.
