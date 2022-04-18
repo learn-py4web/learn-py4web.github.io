@@ -30,15 +30,15 @@ In this unit, we learn how we can create simple database tables, and how we can 
 
 Compared to the recorded lecture, the [code for form processing with py4web](https://github.com/learn-py4web/lecture_py4web_forms) changed in one important respect.  The rule is this.  Suppose we create a URL signer `url_signer`.  Then: 
 
-    Whenever `url_signer` is used in a template, we must include `url_signer` in the `@action.uses` _before_ the template. 
+    Whenever `url_signer` is used in a template, we must include `url_signer` in the `@action.uses`. 
 
 Example:
 
 ```
 @action('index')
-@action.uses(url_signer, 'index.html', db, auth.user)
+@action.uses('index.html', url_signer, db, auth.user)
 def index():
     ...
 ```
 
-The reason is this.  `url_signer`, to sign the URL, needs a key that is in the session.  In the `on_request` method, the URL signer generates the key it needs to sign the URLs.  Hence, we must list the `url_signer` before the template, to ensure that the signing key has been produced before the template is processed. 
+This makes sense, as the fixtures are the things that should be "in place" before the page is processed.  More in detail, `url_signer`, to sign the URL, needs a key that is in the session.  In the `on_request` method, the URL signer generates the key it needs to sign the URLs.  Hence, we must list the `url_signer` in the fixtures, to ensure that the signing key has been produced before the template is processed. 
