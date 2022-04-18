@@ -25,3 +25,20 @@ In this unit, we learn how we can create simple database tables, and how we can 
 * [A first, simple, form](https://drive.google.com/file/d/1sF9CW9UnHSg4vsFir8NnWhCM4o3pxzsL/view?usp=sharing) ([YouTube](https://youtu.be/3nkdtnvFfdw)).
 * [An attack to the simple form](https://drive.google.com/file/d/1UixUtEBc61c0aOKfJT9wsjsaDJIJyNj1/view?usp=sharing) ([YouTube](https://youtu.be/qvWVFy8pRxY)).
 * [Form processing with py4web](https://drive.google.com/file/d/1SBlc0dXPkpnSdPNiMXeivNXYtk9-VdUA/view?usp=sharing) ([YouTube](https://youtu.be/_prMUT6EpUc)).
+
+## Note
+
+Compared to the recorded lecture, the [code for form processing with py4web](https://github.com/learn-py4web/lecture_py4web_forms) changed in one important respect.  The rule is this.  Suppose we create a URL signer `url_signer`.  Then: 
+
+    Whenever `url_signer` is used in a template, we must include `url_signer` in the `@action.uses` _before_ the template. 
+
+Example:
+
+```
+@action('index')
+@action.uses(url_signer, 'index.html', db, auth.user)
+def index():
+    ...
+```
+
+The reason is this.  `url_signer`, to sign the URL, needs a key that is in the session.  In the `on_request` method, the URL signer generates the key it needs to sign the URLs.  Hence, we must list the `url_signer` before the template, to ensure that the signing key has been produced before the template is processed. 
