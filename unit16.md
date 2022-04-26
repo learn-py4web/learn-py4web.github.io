@@ -22,6 +22,7 @@ We also discuss how to implement navigation in Vue, that is, how to send the use
 
 ## Code
 
+* [From a static page to a Vue app](https://github.com/learn-py4web/simple_vue_example); look at the commits done on April 26, 2022: these build the app in stages, from static to dynamic.
 * [A contacts app in Vue.js](https://github.com/learn-py4web/lecture_vue_contacts).
 * [Editing contacts in place](https://github.com/learn-py4web/lecture_vue_contacts_edit_in_place).
 * [Vue reactivity](https://github.com/learn-py4web/vue_reactivity); the last commit corresponds to the end of the class; look at previous commits to see the initial state. 
