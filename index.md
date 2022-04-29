@@ -52,6 +52,7 @@ _Building Dynamic Pages with JavaScript and Vue.js_
 * [Unit 17](unit17.md): Star ratings and search bars.
 * [Unit 18](unit18.md): File uploads and data URLs.
 * [Unit 19](unit19.md): Storing files in Google Cloud Storage.
+* [Security](security.md): Why is all this secure?
 
 _Hosting Your App In the Cloud_
 
