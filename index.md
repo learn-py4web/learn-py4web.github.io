@@ -62,6 +62,10 @@ _Onwards to E-commerce_
 
 * [Unit 21](unit21.md): Building an online store using the Stripe API.
 
+_Further Topics_
+
+* [Unit 22](unit22.md): Server-client components in py4web and vue.js
+
 ## How-To Resources
 
 * [Howto 1](howto1.md): Creating applications.
