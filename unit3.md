@@ -6,7 +6,7 @@ We also learn how to use SASS to customize Bulma to our taste.
 ## Reading
 
 * [CSS](https://en.wikipedia.org/wiki/CSS).  In particular, read the selectors portion.  
-* [CSS at MDN](https://developer.mozilla.org/en-US/docs/Web/CSSpra) This is an _excellent_ tutorial, well worth following. 
+* [CSS at MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) This is an _excellent_ tutorial, well worth following. 
 
 ## Documentation
 
