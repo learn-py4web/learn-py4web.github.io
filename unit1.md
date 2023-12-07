@@ -1,7 +1,7 @@
 # Unit 1: Installing py4web, and editing code
 
 In this unit, we learn how to install py4web, and how to edit its files via Visual Studio Code, which allows for easy editing and debugging. 
-You can also enable [GitHub Copilot](https://copilot.github.com/), which understands py4web pretty well, by enabling the (Copilot extension)[https://marketplace.visualstudio.com/items?itemName=GitHub.copilot] in VSCode.
+You can also enable [GitHub Copilot](https://copilot.github.com/), which understands py4web pretty well, by enabling the [Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) in VSCode.
 
 ## Resources
 
