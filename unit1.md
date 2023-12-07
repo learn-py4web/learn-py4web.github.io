@@ -1,6 +1,7 @@
 # Unit 1: Installing py4web, and editing code
 
-In this unit, we learn how to install py4web, and how to edit its files via either Visual Studio Code or PyCharm, two sophisticated Python editors. 
+In this unit, we learn how to install py4web, and how to edit its files via Visual Studio Code, which allows for easy editing and debugging. 
+You can also enable [GitHub Copilot](https://copilot.github.com/), which understands py4web pretty well, by enabling the (Copilot extension)[https://marketplace.visualstudio.com/items?itemName=GitHub.copilot] in VSCode.
 
 ## Resources
 
@@ -9,8 +10,6 @@ In this unit, we learn how to install py4web, and how to edit its files via eith
 * [py4web](https://py4web.com)
 * [py4web source repository](https://github.com/web2py/py4web)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [PyCharm](https://www.jetbrains.com/pycharm/) and [student licenses](https://www.jetbrains.com/community/education/#students)
-* [Screenshot of run configuration for py4web in PyCharm](files/pycharm_py4web_config.png)
 * [git](https://git-scm.com/about)
 
 ## Videos
@@ -26,34 +25,30 @@ On my linux system, I use the following files to configure VSCode for py4web dev
 
 ### `launch.json`
 
-```
+```json
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
-            "name": "py4web",
+            "name": "Python: py4web",
             "type": "python",
             "request": "launch",
-            "program": "/home/luca/py4web/py4web.py",
-            "args": ["run", "apps"],
+            "program": "py4web.py",
+            "args": [
+                "run", "--errorlog=:stdout", "-L", "20",
+                "apps"
+            ],
             "console": "integratedTerminal",
-            "justMyCode": true,
+            "justMyCode": true
+        },
+        {
+            "name": "Python: File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "justMyCode": true
         }
     ]
-}
-```
-
-### `settings.json`
-
-I have a Conda environment called `py4web` for py4web development. 
-I installed the requirements via: `python -m pip install -r requirements.txt`
-The code below is not strictly necessary, but it ensures that the correct python interpreter is used by default for this project. 
-
-```
-{
-    "python.defaultInterpreterPath": "~/anaconda3/env/py4web/bin/python"
 }
 ```
