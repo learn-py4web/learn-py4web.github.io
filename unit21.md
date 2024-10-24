@@ -14,4 +14,4 @@
 
 ## Video
 
-* [Implementing an Online Store Using the Stripe API](https://drive.google.com/file/d/1czs_hiKSRF8ILk4x2ymOGcw1KN7QG2bP/view?usp=sharing) ([YouTube](https://youtu.be/HRdwCckIXrM)).
+* [Implementing an Online Store Using the Stripe API](https://youtu.be/HRdwCckIXrM).

@@ -30,7 +30,7 @@ We also discuss how to implement navigation in Vue, that is, how to send the use
 
 ## Videos
 
-* [A contacts app in Vue.js](https://drive.google.com/file/d/1Mzoj6-IMbsouH4eKtuEToidfvToWJyV8/view?usp=sharing) ([YouTube](https://youtu.be/Qh3xUZWsqR4)).
-* [Editing contacts in place](https://drive.google.com/file/d/1-H7gZV-RCNIjR3mlj-0Ugs37Ycc1qGdK/view?usp=sharing) ([YouTube](https://youtu.be/gi7EDFLvXyA)). 
-* [Reactivity](https://drive.google.com/file/d/1gfV9eL4GJCFFANBdqaUDqyuTlabMEMFk/view?usp=sharing) ([YouTube](https://youtu.be/4Rc_33ee9Yc)), or better, how to debug reactivity issues in Vue. 
-* [URLs and Navigation in Vue](https://drive.google.com/file/d/1fhyzE7xMSUAOJtb42Tv6YuVwcKOlVWbK/view?usp=sharing) ([YouTube](https://youtu.be/AvqXmq3hwI4)).
+* [A contacts app in Vue.js](https://youtu.be/Qh3xUZWsqR4).
+* [Editing contacts in place](https://youtu.be/gi7EDFLvXyA). 
+* [Reactivity](https://youtu.be/4Rc_33ee9Yc), or better, how to debug reactivity issues in Vue. 
+* [URLs and Navigation in Vue](https://youtu.be/AvqXmq3hwI4).

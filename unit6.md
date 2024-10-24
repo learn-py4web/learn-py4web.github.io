@@ -10,5 +10,5 @@ Here, we consider what is required to serve dynamic web pages at scale, and how 
 
 ## Videos
 
-* [Serving at Scale Dynamic Web Pages](https://drive.google.com/file/d/1DQvzyi-xMHkaJ1iM5CDCdH2Qsej9PMvJ/view?usp=sharing) ([YouTube](https://youtu.be/MAfGzs-xqhc)).
+* [Serving at Scale Dynamic Web Pages](https://youtu.be/MAfGzs-xqhc).
 

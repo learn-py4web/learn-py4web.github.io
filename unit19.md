@@ -31,10 +31,10 @@ We show how to implement a complete app, including file deletion and download.
 
 ## Videos
 
-* [Part 1: The goal](https://drive.google.com/file/d/1wDRGwTtUSGA9AADGUw1G5KflyR5Tq0fX/view?usp=sharing) ([YouTube](https://youtu.be/wT_r2Oz-66c)).
-* [Part 2: Setup](https://drive.google.com/file/d/1SibwY-7EyU68fIhFjBQ_3luel1kx43Lh/view?usp=sharing) ([YouTube](https://youtu.be/tzrxFQZSZ1Q)).
-* [Part 3: The database](https://drive.google.com/file/d/1uboo6RBJbYufi3psvLDsQJ98s3sItVIs/view?usp=sharing) ([YouTube](https://youtu.be/5vJ3M6NPvD4)).
-* [Part 4: The server](https://drive.google.com/file/d/1XuaJfrkA4xBYPZ8uv0ApTQUVLNx5fp6N/view?usp=sharing) ([YouTube](https://youtu.be/4eRQIcWN_3o)).
-* [Part 5: The client](https://drive.google.com/file/d/1IkE0dFD1_T9Fun49flvZApAA3O9C0xy3/view?usp=sharing) ([YouTube](https://youtu.be/EqrGKq76SxQ)).
+* [Part 1: The goal](https://youtu.be/wT_r2Oz-66c).
+* [Part 2: Setup](https://youtu.be/tzrxFQZSZ1Q).
+* [Part 3: The database](https://youtu.be/5vJ3M6NPvD4).
+* [Part 4: The server](https://youtu.be/4eRQIcWN_3o).
+* [Part 5: The client](https://youtu.be/EqrGKq76SxQ).
 
 

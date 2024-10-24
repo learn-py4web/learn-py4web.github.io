@@ -9,6 +9,6 @@ In this unit, we provide examples of implementation of common interactions in Vu
 
 ## Videos
 
-* [Implementing star ratings in Vue.js](https://drive.google.com/file/d/1qGqAcgCv9d5evZL8lj0O2sIL0UwlCFKW/view?usp=sharing) ([YouTube](https://youtu.be/IzkwpjE49Gs)).
-* [Implementing a search bar](https://drive.google.com/file/d/1cDYgOOm5SNfMtL6LrJobRQkyJvExwYNZ/view?usp=sharing) ([YouTube](https://youtu.be/TS6ToY5s0Eg)).  This is a lower-quality video cut from a lecture.
+* [Implementing star ratings in Vue.js](https://youtu.be/IzkwpjE49Gs).
+* [Implementing a search bar](https://youtu.be/TS6ToY5s0Eg).  This is a lower-quality video cut from a lecture.
 

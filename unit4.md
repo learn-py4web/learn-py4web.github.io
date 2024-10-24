@@ -16,6 +16,6 @@ In this unit, we describe the basics of DNS, and the HTTP protocol.
 
 ## Videos
 
-* [DNS and routing](https://drive.google.com/file/d/1yueCNXoT85ssCHXQPWATX12NefPUiVPK/view?usp=sharing) ([YouTube](https://youtu.be/p-6DWrHkvZU)).
-* [The HTTP protocol](https://drive.google.com/file/d/1q3Tq-QbNPSP8gNLirLO4ZkfBVAAsf7os/view?usp=sharing) ([YouTube](https://youtu.be/aCYkv45xciM)).
+* [DNS and routing](https://youtu.be/p-6DWrHkvZU).
+* [The HTTP protocol](https://youtu.be/aCYkv45xciM).
 

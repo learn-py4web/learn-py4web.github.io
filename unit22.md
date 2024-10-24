@@ -11,4 +11,4 @@ The code is part of the `examples` app that comes with py4web.
 
 ## Video
 
-* [Server-Client Components with Vue](https://drive.google.com/file/d/1LWYOg07PjeAHAtbMzjN_aslxCTMsM_nD/view?usp=sharing) [YouTube](https://youtu.be/wqSpxxhFW7E)
+* [Server-Client Components with Vue](https://youtu.be/wqSpxxhFW7E).

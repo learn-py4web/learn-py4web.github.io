@@ -22,8 +22,8 @@ In this Unit we cover how to host your app on Google Appengine, with data stored
 
 ## Videos
 
-* [Part 1: Creating the cloud project and configuring cloud OAuth login](https://drive.google.com/file/d/1QhBs1UZhJ8UoGVZbCQ6K6J0hh-3hwydD/view?usp=sharing) ([YouTube](https://youtu.be/AeGXq3PaJDQ)).
-* [Part 2: Configuring your app for OAuth login](https://drive.google.com/file/d/1CovGSCQeJWPyfVHnf2pvMSh-t72QZwYM/view?usp=sharing) ([YouTube](https://youtu.be/LiypQk4bP38)).
-* [Part 3: Configuring the database connection](https://drive.google.com/file/d/12HOWBTMAw1FjOm9jU9UbgMwK6pujcMKb/view?usp=sharing) ([YouTube](https://youtu.be/ubl6In12aFc)).
-* [Part 4: Creating and configuring the database](https://drive.google.com/file/d/1IXwr5DSBSYMAEHK6cPqEsEWKtWAulENz/view?usp=sharing) ([YouTube](https://youtu.be/4mCIdMr6mdw)).
-* [Part 5: Deploying your app](https://drive.google.com/file/d/1thUcj2HczBq7bXf2TrhzssELPVOf1xrq/view?usp=sharing) ([YouTube](https://youtu.be/AHldkj1kyuI)).
+* [Part 1: Creating the cloud project and configuring cloud OAuth login](https://youtu.be/AeGXq3PaJDQ).
+* [Part 2: Configuring your app for OAuth login](https://youtu.be/LiypQk4bP38).
+* [Part 3: Configuring the database connection](https://youtu.be/ubl6In12aFc).
+* [Part 4: Creating and configuring the database](https://youtu.be/4mCIdMr6mdw).
+* [Part 5: Deploying your app](https://youtu.be/AHldkj1kyuI).

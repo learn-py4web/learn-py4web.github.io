@@ -10,4 +10,4 @@ The first two tasks need to be done all together.  The page development can then
 
 ## Videos
 
-* [Starting a new project](https://drive.google.com/file/d/1IowffsVDQzxXJuLLfDb7y3UoaPAx3pAW/view?usp=sharing) ([YouTube](https://youtu.be/PFN6w1UUfPo)).
+* [Starting a new project](https://youtu.be/PFN6w1UUfPo).
