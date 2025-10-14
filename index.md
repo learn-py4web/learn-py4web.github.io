@@ -1,4 +1,6 @@
 # Learn Py4Web
+## Course Material
+### Luca de Alfaro, UC Santa Cruz
 
 [py4web](https://py4web.com) is an open-source, Python-based web framework.  This site contains the material for a class that covers py4web in 10 weeks.  The class is taught at the [UCSC School of Engineering](https://www.soe.ucsc.edu) by [Luca de Alfaro](https://luca.dealfaro.com).  Feel free to use the material provided here, and feel free to suggest new material (new videos, tutorials, and so forth).  In fact, feel free to re-make improved versions of the videos, and I will be happy to include them. 
 
@@ -80,4 +82,4 @@ Likewise, if you create your own versions of some of the videos, let me know, an
 
 ---
 
-[Luca de Alfaro](https://luca.dealfaro.com), 2021-22.
+[Luca de Alfaro](https://luca.dealfaro.com).
