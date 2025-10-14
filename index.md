@@ -1,4 +1,4 @@
-# Learn Py4Web
+
 ## Course Material
 ### Luca de Alfaro, UC Santa Cruz
 
